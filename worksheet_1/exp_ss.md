@@ -29,15 +29,18 @@ Controls in Linux Machine.
 
 ### Step 1:
 Creating file
+
 ![image](https://github.com/kraken426/system_and_network_security/assets/67184260/5b1b8324-6cac-440a-a83d-c5e118649745)
 
 
 ### Step 2:
 Giving Permissions
+
 ![image](https://github.com/kraken426/system_and_network_security/assets/67184260/cd235fe7-d6a1-4bc2-af61-15cc01eccfa8)
 
 
 ### Step 3:
 Checking permissions
+
 ![image](https://github.com/kraken426/system_and_network_security/assets/67184260/e8171f42-d28b-471e-b06f-06b679e192a3)
 
